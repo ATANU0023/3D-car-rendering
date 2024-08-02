@@ -12,5 +12,6 @@
 npm run dev 
 ```
 
+#### Visit to play - https://3-d-car-rendering.vercel.app/
 
 ![car](<Screenshot 2024-08-02 204345.png>)
